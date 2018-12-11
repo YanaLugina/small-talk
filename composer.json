@@ -1,0 +1,19 @@
+{
+    "name": "yana4961/small-talk",
+    "description": "Small talk with Hexlet",
+    "type": "project",
+    "keywords": ["hexxlet", "php", "composer"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yana",
+            "email": "yana4961@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "bin": [
+        ".sayHi",
+        ".sayBye"
+    ]
+}
