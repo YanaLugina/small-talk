@@ -1,12 +1,13 @@
 {
     "name": "yana4961/small-talk",
     "description": "Small talk with Hexlet",
+    "version": "1.0.0",
     "type": "project",
-    "keywords": ["hexxlet", "php", "composer"],
+    "keywords": ["hexlet", "php", "composer"],
     "license": "MIT",
     "authors": [
         {
-            "name": "yana",
+            "name": "yana4961",
             "email": "yana4961@gmail.com"
         }
     ],
